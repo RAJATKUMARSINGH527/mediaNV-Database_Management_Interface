@@ -1,6 +1,4 @@
-# mediaNV-Database_Management_Interface
-
-# 🚀 Database Management Interface (DMI)
+# 🚀mediaNV Database Management Interface (DMI)
 
 A powerful MERN stack application designed to automate PostgreSQL database management tasks like creating instances, checking existence, and seamless data migration between databases.
 
