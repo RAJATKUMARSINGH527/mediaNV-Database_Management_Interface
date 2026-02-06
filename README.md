@@ -70,9 +70,9 @@ Method          Endpoint                  Description
 `POST`         `/api/db/migrate`      Migrates data between two databases
 
 ## 📝 Usage
-- **Create Database:** Enter the desired database name and click "Create Database".
-- **Check Database Existence:** Input the database name and click "Check Existence".
-- **Migrate Database:** Provide source and target database names, then click "Migrate Database".
+- **Create Database:** Enter the desired database name and click `"Create Database"`.
+- **Check Database Existence:** Input the database name and click `"Check Existence"`.
+- **Migrate Database:** Provide source and target database names, then click `"Migrate Database"`.
 - **View Logs:** Monitor the activity console for real-time updates on operations.
 
 ## 🛡️ Migration Logic
